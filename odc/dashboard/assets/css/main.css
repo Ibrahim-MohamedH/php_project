@@ -1,0 +1,8 @@
+h6.profile a {
+  color: white;
+  text-decoration: none;
+}
+select.form-control,
+.form-control:focus {
+  color: white;
+}
